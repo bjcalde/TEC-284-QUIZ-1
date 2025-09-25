@@ -1,0 +1,2 @@
+# TEC-284-QUIZ-1
+RGB Quiz
